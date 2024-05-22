@@ -26,3 +26,4 @@
 2. futher considerations
     0. common html tags
     1. media query intersection
+    2. this probably already exists but whatever, easy to build.
