@@ -1,5 +1,13 @@
 ## css-class-overlap-checker
 
+## Structure:
+1. directory: example_css_files
+    - tachyons has a simple enough css file to be in this directory.
+    - others will be custom small css files
+    - if I think of another simple css file it will go in.
+2. script
+
+## Plan: 
 1. compare css files
     1. input
         - 2 files required as input. 
@@ -27,3 +35,6 @@
     1. common html tags
     2. media query intersection
     3. this probably already exists but whatever, easy to build.
+3. The secret plan.
+    1. write it in 10 lines of bash
+    2. give it to https://github.com/menketechnologies to re-write it in rust 🙂
